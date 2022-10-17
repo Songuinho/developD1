@@ -1,0 +1,20 @@
+[
+    {
+        "nom":"Songue",
+        "id":1,
+        "filiere":"FSH",
+        "ecole":"FGI"
+        },
+    {
+        "nom":"LT",
+        "id":2,
+        "filiere":"IIA",
+        "ecole":"ISTAMA"
+        },
+    {
+        "nom":"peguy",   
+        "id":3,
+        "filiere":"Logistique et transport",
+        "ecole":"Politch"
+    }
+]

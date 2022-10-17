@@ -1,0 +1,20 @@
+[
+    {
+        "nom":"Songue",
+        "id":1,
+        "filiere":"GSI",
+        "ecole":"IUGET"
+        },
+    {
+        "nom":"LT",
+        "id":2,
+        "filiere":"GSI",
+        "ecole":"IUGET"
+        },
+    {
+        "nom":"peguy",   
+        "id":3,
+        "filiere":"GL",
+        "ecole":"IUGET"
+    }
+]
